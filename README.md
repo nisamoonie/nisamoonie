@@ -4,7 +4,7 @@ my name is Nisa 🩷
 
  i’ve been learning coding for over half a year now, and at the moment i have several fully completed projects. they may not be polished to perfection, but they were written by someone who is passionate about learning new things, absorbs information, and tries to remember everything and write code as well as possible 🎀
 
-**my hard skills:**
+**My Hard Skills:**
 - python
 - css
 - tensorflow/keras
@@ -21,6 +21,19 @@ my name is Nisa 🩷
 - [website](https://github.com/nisamoonie/website)
 - [cnn-model](https://github.com/nisamoonie/CNN-model)
 
+
+**My Soft Skills:**
+- communication
+- teamwork / ability to work in a team
+- gentle speaker
+- empathy
+- creativity
+- emotional intelligence
+- good listener
+- adaptability
+- attention to details
+- sincerity
+- 
 
 **i’m always happy to learn something new and be useful!**
 
