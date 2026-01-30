@@ -16,6 +16,11 @@ my name is Nisa 🩷
 - Flask, REST API
 - telegram, pyrogram
 
+**My projects:**
+- [mini-game](https://github.com/nisamoonie/mygame)
+- [website](https://github.com/nisamoonie/website)
+- [cnn-model](https://github.com/nisamoonie/CNN-model)
+
 
 **i’m always happy to learn something new and be useful!**
 
