@@ -33,7 +33,7 @@ my name is Nisa 🩷
 - adaptability
 - attention to details
 - sincerity
-- 
+
 
 **i’m always happy to learn something new and be useful!**
 
