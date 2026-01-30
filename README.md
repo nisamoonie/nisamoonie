@@ -4,7 +4,7 @@ my name is Nisa 🩷
 
  i’ve been learning coding for over half a year now, and at the moment i have several fully completed projects. they may not be polished to perfection, but they were written by someone who is passionate about learning new things, absorbs information, and tries to remember everything and write code as well as possible 🎀
 
-**my hard skills:**
+# **my hard skills:**
 python
 css
 tensorflow/keras
@@ -13,7 +13,7 @@ pil
 pygame
 and json
 
-# i’m always happy to learn something new and be useful!
+**i’m always happy to learn something new and be useful!**
 
 i live in spain and am focused on remote work. i speak conversational english and i’m open to all kinds of opportunities and tasks (from the easiest to the most challenging) 🌸
 
