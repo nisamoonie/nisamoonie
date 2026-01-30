@@ -4,14 +4,18 @@ my name is Nisa 🩷
 
  i’ve been learning coding for over half a year now, and at the moment i have several fully completed projects. they may not be polished to perfection, but they were written by someone who is passionate about learning new things, absorbs information, and tries to remember everything and write code as well as possible 🎀
 
-# **my hard skills:**
+**my hard skills:**
 - python
 - css
 - tensorflow/keras
 - opencv
-- pil
+- matplotlib
 - pygame
 - and json
+- SQLite
+- Flask, REST API
+- telegram, pyrogram
+
 
 **i’m always happy to learn something new and be useful!**
 
